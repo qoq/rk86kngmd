@@ -2,18 +2,18 @@ Original                This project
 ===================     ==========================
 DD1     1x КР580ВВ55А   КР580ВВ55А           (DIP-40 2.5mm)
 DD2     1x К555ИР13     К555ИР13             (DIP-24 2.5mm)  74LS198 analog is hard to source
-DD3     1x К555ИР23	    74LS374DW 
+DD3     1x К555ИР23     74LS374DW
 DD4,5   2x КС573РФ2     1x 27C32 or 27C64    (DIP-28 .1")    Original version used two vertically stacked КС573РФ2 (27C16) chips
-DD6     1x К555ИР22	    74LS373DW
-DD7,8   2x К555ИЕ5	    74LS93D
-DD9     1x К555ИЕ7	    74LS193D
-DD10    1x К555ИД4	    74LS155D
-DD11,12 2x К555ТМ2	    74LS74D
-DD13    1x К555ЛА3	    74LS00D
-DD14    1x К555ЛН1	    74LS04D
-DD15    1x К555ЛИ1	    74LS08D
-DD16    1x К555ЛЛ1	    74LS32D
-DD17    1x К555ЛЕ1	    74LS02D  
+DD6     1x К555ИР22     74LS373DW
+DD7,8   2x К555ИЕ5      74LS93D
+DD9     1x К555ИЕ7      74LS193D
+DD10    1x К555ИД4      74LS155D
+DD11,12 2x К555ТМ2      74LS74D
+DD13    1x К555ЛА3      74LS00D
+DD14    1x К555ЛН1      74LS04D
+DD15    1x К555ЛИ1      74LS08D
+DD16    1x К555ЛЛ1      74LS32D
+DD17    1x К555ЛЕ1      74LS02D
 
 SOIC packages:
 ===============

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name к580)(type Legacy)(uri ${KIPRJMOD}/к580.lib)(options "")(descr ""))
+  (lib (name Memory)(type Legacy)(uri ${KIPRJMOD}/memory.lib)(options "")(descr ""))
+)
