@@ -1,7 +1,7 @@
 Original                This project
 ===================     ==========================
 DD1     1x КР580ВВ55А   КР580ВВ55А           (DIP-40 2.5mm)
-DD2     1x К555ИР13     К555ИР13             (DIP-24 2.5mm)  74LS198 analog is hard to source
+DD2     1x К155ИР13     К155ИР13             (DIP-24 2.5mm)  74LS198 analog is hard to source
 DD3     1x К555ИР23     74LS374DW
 DD4,5   2x КС573РФ2     1x 27C32 or 27C64    (DIP-28 .1")    Original version used two vertically stacked КС573РФ2 (27C16) chips
 DD6     1x К555ИР22     74LS373DW
