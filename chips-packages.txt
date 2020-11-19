@@ -23,3 +23,5 @@ Chips ending with "D":
 
 Chips ending with "DW":
   20-pin: SOIC (SOIC-20W_7.5x12.8mm_P1.27mm)
+
+SMD Resistors/Capacitors: 1206 (3216 metric)
