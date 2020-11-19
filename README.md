@@ -12,5 +12,5 @@ This version is a compact rework of the replica.
 - Added AND circutry (2 diodes) to form ROM CS signal from CS1/CS2
 - Added two bypass capacitors for stability
 
-![pops](./pics/board-3d-a.png)
-![pops](./pics/board-3d-b.png)
+![pops](./pics/assembled.png)
+![pops](./pics/assembled-b.png)
