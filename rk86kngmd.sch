@@ -2231,4 +2231,6 @@ F 3 "" H 13700 7500 50  0000 C CNN
 	1    13700 7500
 	1    0    0    -1  
 $EndComp
+Text Notes 12350 8350 0    60   ~ 0
+READY may need to be tied down to GND (1K)\nhttp://radio86rk.pbworks.com/w/page/67453211/FDC\nSource: Radio 1993 No 1 and No 2
 $EndSCHEMATC
